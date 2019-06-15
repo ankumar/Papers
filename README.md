@@ -3,6 +3,7 @@
 * [One SQL to Rule Them All:An Efficient and Syntactically Idiomatic Approach to Management of Streams and Tables](https://arxiv.org/pdf/1905.12133.pdf)
 * [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.html)
 * [Algorithms Behind Modern Storage Systems](https://queue.acm.org/detail.cfm?id=3220266)
+* [Looking Back at Postgres](https://arxiv.org/pdf/1901.01973.pdf)
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
 * [The Bw-Tree: A B-tree for New Hardware Platforms](https://www.microsoft.com/en-us/research/publication/the-bw-tree-a-b-tree-for-new-hardware/)
 * [FoundationDB Record Layer:A Multi-Tenant Structured Datastore](https://www.foundationdb.org/files/record-layer-paper.pdf)
