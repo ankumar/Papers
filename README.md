@@ -11,3 +11,4 @@
 * [Hashed and Hierarchical Timing Wheels: Data Structures for the Efficient Implementation of a Timer Facility](http://www.cs.columbia.edu/~nahum/w6998/papers/sosp87-timing-wheels.pdf)
 * [Lessons from Giant-Scale Services](https://people.eecs.berkeley.edu/~brewer/papers/GiantScale-IEEE.pdf)
 * [On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/index.html)
+* [A Relational Model of Data for Large Shared Data Banks ](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
