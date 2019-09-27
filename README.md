@@ -14,8 +14,7 @@
 * [A Relational Model of Data for Large Shared Data Banks](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 
 
-* [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
-
+* [2007, Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * [June 26, 1999 - Big Ball of Mud](http://www.laputan.org/mud/mud.html#BigBallOfMud)
 * [July 1983 - Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
-
+* [July 1974 - The UNIX TimeSharing System](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)
