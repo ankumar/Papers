@@ -17,6 +17,8 @@
 * [An Overview of Query Optimization in Relational Systems](https://web.stanford.edu/class/cs345d-01/rl/chaudhuri98.pdf)
 * [How Good Are Query Optimizers, Really?](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
 
+* [The Network is Reliable](https://queue.acm.org/detail.cfm?id=2655736)
+
 * [2007, Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * [June 26, 1999 - Big Ball of Mud](http://www.laputan.org/mud/mud.html#BigBallOfMud)
 
