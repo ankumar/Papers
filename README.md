@@ -28,6 +28,8 @@
 * [July 1983 - Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf)
 * [July 1974 - The UNIX TimeSharing System](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)
 
+* [A System of Patterns for Concurrent Request Processing Servers](http://www.fmc-modeling.org/download/publications/groene_tabeling_2003-server_patterns.pdf)
+
 ----
 
 * https://github.com/heidihoward/distributed-consensus-reading-list
