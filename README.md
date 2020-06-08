@@ -34,3 +34,4 @@
 
 * https://github.com/heidihoward/distributed-consensus-reading-list
 * https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems
+* https://www.the-paper-trail.org/page/reading-list/
