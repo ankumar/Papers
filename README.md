@@ -30,6 +30,8 @@
 
 * [A System of Patterns for Concurrent Request Processing Servers](http://www.fmc-modeling.org/download/publications/groene_tabeling_2003-server_patterns.pdf)
 
+* [Actor Model of Computation](https://arxiv.org/vc/arxiv/papers/1008/1008.1459v8.pdf)
+
 ----
 
 * https://github.com/heidihoward/distributed-consensus-reading-list
