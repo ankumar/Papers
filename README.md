@@ -34,6 +34,8 @@
 
 * [Actor Model of Computation](https://arxiv.org/vc/arxiv/papers/1008/1008.1459v8.pdf)
 
+* [Lockdown mathematics: A historical perspective](http://www.nieuwarchief.nl/serie5/pdf/naw5-2020-21-2-095.pdf)
+
 ----
 
 * https://github.com/heidihoward/distributed-consensus-reading-list
