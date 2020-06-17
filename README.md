@@ -1,6 +1,7 @@
 # Papers
 
 * [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
+  * https://www.youtube.com/watch?v=GpWLZUbPhr0
 * [Paxos vs Raft: Have we reached consensus on distributed consensus?](https://arxiv.org/pdf/2004.05074.pdf)
 * [One SQL to Rule Them All:An Efficient and Syntactically Idiomatic Approach to Management of Streams and Tables](https://arxiv.org/pdf/1905.12133.pdf)
 * [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.html)
