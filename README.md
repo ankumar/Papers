@@ -36,6 +36,7 @@
 
 * [Lockdown mathematics: A historical perspective](http://www.nieuwarchief.nl/serie5/pdf/naw5-2020-21-2-095.pdf)
 
+* [The why, how, and when of representations for complex systems](https://arxiv.org/pdf/2006.02870.pdf)
 ----
 
 * https://github.com/heidihoward/distributed-consensus-reading-list
