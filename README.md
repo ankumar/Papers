@@ -1,6 +1,7 @@
 # Papers
 
 * [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf)
+* [Consistency Tradeoffs in Modern Distributed Database System Design](http://www.cs.umd.edu/~abadi/papers/abadi-pacelc.pdf)
 * [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
 * [Paxos vs Raft: Have we reached consensus on distributed consensus?](https://arxiv.org/pdf/2004.05074.pdf)
 * [One SQL to Rule Them All:An Efficient and Syntactically Idiomatic Approach to Management of Streams and Tables](https://arxiv.org/pdf/1905.12133.pdf)
