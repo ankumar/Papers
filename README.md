@@ -21,6 +21,7 @@
 * [How Good Are Query Optimizers, Really?](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
 
 * [Tales of the Tail](https://syslab.cs.washington.edu/papers/latency-socc14.pdf)
+* [The Impact of Thread-Per-Core Architecture on Application Tail Latency](https://ieeexplore.ieee.org/document/8901874)
 
 * [How to Build a Highly Available System Using Consensus](https://www.microsoft.com/en-us/research/publication/how-to-build-a-highly-available-system-using-consensus/)
 
