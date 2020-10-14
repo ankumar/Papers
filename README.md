@@ -43,6 +43,8 @@
 
 * [The why, how, and when of representations for complex systems](https://arxiv.org/pdf/2006.02870.pdf)
 
+* [The Synchronous Data Center](https://www.cis.upenn.edu/~ahae/papers/sync-hotos2019.pdf)
+
 ----
 
 **List:**
