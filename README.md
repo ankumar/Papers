@@ -46,6 +46,8 @@
 
 * [The Synchronous Data Center](https://www.cis.upenn.edu/~ahae/papers/sync-hotos2019.pdf)
 
+* [Intel SGX Explained](https://eprint.iacr.org/2016/086.pdf)
+
 ----
 
 **List:**
