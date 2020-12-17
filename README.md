@@ -50,6 +50,8 @@
 
 * [Intel SGX Explained](https://eprint.iacr.org/2016/086.pdf)
 
+* [Data-Centricity: A Challenge and Opportunity for Computing Education](https://cs.brown.edu/~sk/Publications/Papers/Published/kf-data-centric/paper.pdf)
+
 ----
 
 **List:**
