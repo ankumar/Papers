@@ -1,5 +1,6 @@
 # Papers
 
+* [Evolution of the Unix System Architecture: An Exploratory Case Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8704965)
 * [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf)
 * [Energy Efficiency across Programming Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
 * [Consistency Tradeoffs in Modern Distributed Database System Design](http://www.cs.umd.edu/~abadi/papers/abadi-pacelc.pdf)
