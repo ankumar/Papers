@@ -54,6 +54,8 @@
 
 * [Data-Centricity: A Challenge and Opportunity for Computing Education](https://cs.brown.edu/~sk/Publications/Papers/Published/kf-data-centric/paper.pdf)
 
+* [Deployment Archetypes for Cloud Applications](https://arxiv.org/pdf/2105.00560.pdf)
+
 ----
 
 **List:**
