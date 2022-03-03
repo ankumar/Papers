@@ -56,6 +56,8 @@
 
 * [Deployment Archetypes for Cloud Applications](https://arxiv.org/pdf/2105.00560.pdf)
 
+* [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
+
 ----
 
 **List:**
