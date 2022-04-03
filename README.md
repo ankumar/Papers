@@ -58,6 +58,8 @@
 
 * [Symphony: Composing Interactive Interfaces for Machine Learning](https://arxiv.org/pdf/2202.08946.pdf)
 
+* [Technical Debt and Firm Performance](https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2019.3542)
+
 ----
 
 **List:**
