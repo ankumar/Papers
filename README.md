@@ -2,6 +2,7 @@
 
 * [Evolution of the Unix System Architecture: An Exploratory Case Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8704965)
 * [Programming as Theory Building](http://pages.cs.wisc.edu/~remzi/Naur.pdf)
+* [Keeping Software Present Software as a Timely Object for STS Studies of the Digital](https://digitalsts.net/wp-content/uploads/2019/11/27_digitalSTS_Keeping-Software-Present.pdf)
 * [Energy Efficiency across Programming Languages](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf)
 * [Wicked Problems and Design: A Diagram](https://www.academia.edu/6086328/Wicked_Problems_and_Design_A_Diagram)
 * [Consistency Tradeoffs in Modern Distributed Database System Design](http://www.cs.umd.edu/~abadi/papers/abadi-pacelc.pdf)
