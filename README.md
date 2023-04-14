@@ -61,6 +61,8 @@
 
 * [Technical Debt and Firm Performance](https://pubsonline.informs.org/doi/epdf/10.1287/mnsc.2019.3542)
 
+* [Is Scalable OLTP in the Cloud a Solved Problem?](https://www.cidrdb.org/cidr2023/papers/p50-ziegler.pdf)
+
 ----
 
 **List:**
